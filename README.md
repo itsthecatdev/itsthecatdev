@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shxact</h1>
+<h1 align="center">Hi 👋, I'm shxcat</h1>
 <h3 align="center">a funny developer from germany</h3>
 
 - 🔭 I’m currently working on **allot of stuff**
